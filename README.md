@@ -1,12 +1,6 @@
-# Full Stack Spotifx with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
-
-![Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-spotify/assets/23248726/2722c7bd-2d8f-44a9-97b9-f2711a8d8b64)
+# Full Stack Spotifx with Next.js 13.4, App Router, React, Tailwind, Supabase, PostgreSQL, and Stripe.
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
-
-This is a repository for a Full Stack Spotifx with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
-
-[VIDEO TUTORIAL](https://youtu.be/2aeMRB8LL4o)
 
 Key Features:
 
@@ -37,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-spotify.git
+git clone https://github.com/alisamirali/spotifx.git
 ```
 
 ### Install packages
@@ -60,7 +54,7 @@ STRIPE_WEBHOOK_SECRET=
 
 ### Add SQL Tables
 
-Use `database.sql` file, create songs and liked_songs table (there is a video tutorial)
+Use `database.sql` file, create songs and liked_songs table.
 
 ### Start the app
 
