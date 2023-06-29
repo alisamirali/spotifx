@@ -132,7 +132,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
             </div>
           ) : (
             <>
-              <div>
+              {/* <div>
                 <Button
                   onClick={authModal.onOpen}
                   className="
@@ -143,13 +143,13 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
                 >
                   Sign up
                 </Button>
-              </div>
+              </div> */}
               <div>
                 <Button
                   onClick={authModal.onOpen}
                   className="bg-white px-6 py-2"
                 >
-                  Log in
+                  Sign in
                 </Button>
               </div>
             </>
