@@ -97,7 +97,7 @@ const SubscribeModal: React.FC<SubscribeModalProps> = ({ products }) => {
   return (
     <Modal
       title="Only for premium users"
-      description="Listen to music with Spotifx Premium"
+      description="Card Number (4242424242424242) CVC (Any 3 digits) Date (Any future date)"
       isOpen={subscribeModal.isOpen}
       onChange={onChange}
     >
